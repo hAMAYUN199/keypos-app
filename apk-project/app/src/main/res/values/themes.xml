@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KeyPOS" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#f1f6f5</item>
+    </style>
+</resources>
